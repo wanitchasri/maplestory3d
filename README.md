@@ -1,5 +1,5 @@
 **MapleStory3D** <br />
-Offline single-player side-scrolling role-playing game based on the basic gameplay and game mechanics of MapleStory
+Offline single-player side-scrolling role-playing game based on the basic gameplay and game mechanics of MapleStory <br />
 Gameplay Showcase: https://youtu.be/BTxeMXluP98
 
 Project Contributor: Sutisan Nilrattanakul, Zhengli Zhang <br />
