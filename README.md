@@ -1,6 +1,6 @@
 **MapleStory3D** <br />
 Offline single-player side-scrolling role-playing game based on the basic gameplay and game mechanics of MapleStory <br />
-Gameplay DEMO: https://youtu.be/BTxeMXluP98
+Gameplay DEMO: https://youtu.be/BTxeMXluP98 <br />
 Portfolio: https://wanitchasri.wordpress.com/maplestory3d/
 
 Project Contributor: Sutisan Nilrattanakul, Zhengli Zhang <br />
